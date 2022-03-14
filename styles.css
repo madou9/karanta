@@ -7,4 +7,9 @@
 .background-overlay{
     background-color: rgba(78, 172, 255, 0.459);
 }
+
+.effet-hover:hover{ 
+    background-color: rgb(68, 68, 207);
+    color: rgb(192, 192, 192);
+}
     
